@@ -10,9 +10,6 @@ Thiết bị tích hợp **mạch thu và phát tín hiệu hồng ngoại**, đ
 * 🧠 **IR Learning** – Học và lưu lệnh từ remote gốc
 * 🎛️ **MCU Interface** – Giao tiếp với bộ điều khiển
 * 🔋 **Power Supply** – Cung cấp nguồn cho hệ thống
-* 🛡️ **Protection** – Bảo vệ các khối nguồn và phần cứng
-* 📐 **Compact PCB** – Thiết kế nhỏ gọn, phù hợp tích hợp vào thiết bị
-
 ## 🎯 Applications
 
 * 📺 TV
