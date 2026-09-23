@@ -22,8 +22,10 @@ Thiết bị tích hợp **mạch thu và phát tín hiệu hồng ngoại**, đ
 * 📡 Các thiết bị điều khiển bằng hồng ngoại khác
 
 ## 3D Model
-<img width="660" height="637" alt="image" src="https://github.com/user-attachments/assets/76dff725-ffcd-4e2f-9494-5a66eb665a25" />
-<img width="660" height="637" alt="image" src="https://github.com/user-attachments/assets/b42a7118-897f-4dfd-8f25-cdbf9b2e1237" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/76dff725-ffcd-4e2f-9494-5a66eb665a25" width="49%">
+  <img src="https://github.com/user-attachments/assets/b42a7118-897f-4dfd-8f25-cdbf9b2e1237" width="49%">
+</p>
 
 
 
