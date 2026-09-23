@@ -3,7 +3,6 @@
 Bộ điều khiển hồng ngoại thông minh cho phép điều khiển **TV, máy điều hòa, quạt và các thiết bị sử dụng hồng ngoại** trực tiếp từ điện thoại thông minh.
 
 Thiết bị tích hợp **mạch thu và phát tín hiệu hồng ngoại**, đồng thời hỗ trợ **IR Learning** để học lệnh từ remote gốc, giúp thay thế nhiều remote truyền thống bằng một thiết bị duy nhất.
-
 ## ⚡ Hardware
 
 * 📡 **IR Receiver** – Thu tín hiệu hồng ngoại từ remote
